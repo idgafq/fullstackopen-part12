@@ -1,0 +1,7 @@
+.dockerignore
+.gitignore
+node_modules
+dev.Dockerfile
+Dockerfile
+mongo_data
+prod_mongo_data
